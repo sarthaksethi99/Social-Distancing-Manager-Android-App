@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262832181116",
+    "firebase_url": "https://gathering-manager.firebaseio.com",
+    "project_id": "gathering-manager",
+    "storage_bucket": "gathering-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262832181116:android:dbee83471603e2a30f1ef9",
+        "android_client_info": {
+          "package_name": "a.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262832181116-0hmtfjcm1ljik68h8a9vf2hidm7ptdva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a.com",
+            "certificate_hash": "d626ae0c72052314098cc19e87869d11be1ecd65"
+          }
+        },
+        {
+          "client_id": "262832181116-kgvfn6f6ui6sdtgocvt9ll7tdeugvato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqU2raG_sGjU-9pnaGZ2TsP0cR2qjybtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262832181116-kgvfn6f6ui6sdtgocvt9ll7tdeugvato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
